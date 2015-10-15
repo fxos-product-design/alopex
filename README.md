@@ -2,12 +2,10 @@
 
 *begun August 2015*
 
-Here you'll find product design artifacts describing Project Alopex. Out of this work, we plan to define release candidates for upcoming versions of Firefox OS. You can find more information about schedule, milestones, and the like on the [Mozilla Wiki][1].
+Here you'll find product design artifacts describing Project Alopex. Out of this work, we plan to choose feature sets for upcoming versions of Firefox OS. You can find more information about schedule, milestones, and the like on the [Mozilla Wiki][1].
 
 ### Purpose of This Repo
 We want to share early Project Alopex documents with Mozilla colleagues outside our immediate team, with the larger Mozilla community, and with others who support the [Mozilla mission][1]. We hope you'll get involved by brainstorming with us, providing feedback, and maybe even submitting a possible design!
-
-The best way to get involved is by browsing the files in the Shared Documents folder and then join the related conversation in the Open Issues.
 
 ### How to Contribute (for everyone)
 The best way to get involved is to review the [Open Issues][3], and see what we're working on. Join the conversation in any Open Issue by posting your comments, feedback, ideas, or possible designs.
