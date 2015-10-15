@@ -19,7 +19,7 @@ _Tips:_
 
 
 ### How to use this repo (for FxOS Product + UX team members)
-< instructions here for setting up and using the Github Desktop client. OR point from here to this repo's Wiki where we have the instructions. Instructions should be in every repo we create, so people always have the instructions handy. include link to cheatsheet for [Github Markdown][4] >
+-- instructions here for setting up and using the Github Desktop client. OR point from here to this repo's Wiki where we have the instructions. Instructions should be in every repo we create, so people always have the instructions handy. include link to cheatsheet for [Github Markdown][4] --
 
 
 [1]: https://www.mozilla.org/en-US/mission/
