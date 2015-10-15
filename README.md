@@ -15,7 +15,7 @@ _Tips:_
 
 1. "Watch" or "Star" this repo so you receive notifications when new items are posted.
 2. Filter the Open Issues using the Labels to narrow to your areas of interest.
-3. Start with items marked "Feedback wanted" - these are our top priorities and typically have a feedback due date.
+3. Start with items labeled "Feedback wanted" - these are our top priorities and typically have a feedback due date.
 
 ### How to use this repo (for FxOS Product + UX team members)
 < instructions here for setting up and using the Github Desktop client. OR point from here to this repo's Wiki where we have the instructions. Instructions should be in every repo we create, so people always have the instructions handy. include link to cheatsheet for [Github Markdown][4] >
