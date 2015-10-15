@@ -6,7 +6,7 @@ Project Alopex is an early stage exploration of the future of Firefox OS. You ca
 
 
 ### Purpose of This Repo
-We want to share our Project Alopex work with Mozilla colleagues outside our immediate team, with the larger Mozilla community, and with others who support the [Mozilla mission][1]. We hope you'll get involved by brainstorming with us, providing feedback, or maybe even submitting a possible design!
+We want to share our Project Alopex work with Mozilla colleagues outside our immediate team, with the larger Mozilla community, and with others who support the [Mozilla mission][2]. We hope you'll get involved by brainstorming with us, providing feedback, or maybe even submitting a possible design!
 
 
 ### How to Contribute (for everyone)
