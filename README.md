@@ -13,6 +13,7 @@ We want to share our Project Alopex work with Mozilla colleagues outside our imm
 The best way to get involved is to review the [Open Issues][3], and see what we're working on. Join the conversation in any Open Issue by posting your comments, feedback, ideas, or possible designs.
 
 *Tips:* 
+
 1. "Watch" or "Star" this repo so you receive notifications when new issues are opened.
 2. Filter the Open Issues using the Labels to narrow to your areas of interest.
 3. Start with items labeled "Feedback wanted" - these are our top priorities and typically have a feedback due date.
