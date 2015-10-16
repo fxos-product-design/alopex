@@ -2,11 +2,13 @@
 
 
 ### How to use this directory (for FxOS Product + UX team members)
-Use this folder to experiment with Github - you can create, edit, and delete files using the desktop client or the web interface.
+Use this folder to experiment with Github - you can create, edit, and delete files locally and use the Github Desktop client to push them here.
 
-*Be careful - don't delete or overwrite someone else's work.
+See the [general instructions][1] for adding/updating files and for soliciting feedback. 
 
-< include link to cheatsheet for [Github Markdown][1] >
+You can also add text-based files into this folder. If the file extension is `.md`, you can use [this cheatsheet][2] for Github Markdown formatting.
 
 
-[1]: https://help.github.com/articles/markdown-basics/
+
+[1]: <linkgoeshere>
+[2]: https://help.github.com/articles/markdown-basics/
