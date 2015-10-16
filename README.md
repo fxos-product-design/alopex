@@ -29,4 +29,4 @@ Follow the [instructions on the wiki here][5] to get set up and get started.
 [2]: https://wiki.mozilla.org/Firefox_OS/Alopex
 [3]: https://github.com/fxos-product-design/alopex/issues
 [4]: https://help.github.com/articles/markdown-basics/
-[4]: https://en.wikipedia.org/wiki/Open_design
+[5]: https://en.wikipedia.org/wiki/Open_design
