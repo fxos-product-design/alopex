@@ -20,10 +20,13 @@ The best way to get involved is to review the [Open Issues][3], and see what we'
 
 
 ### How to use this repo (for FxOS Product + UX team members)
-:: instructions here for setting up and using the Github Desktop client. OR point from here to this repo's Wiki where we have the instructions. Instructions should be in every repo we create, so people always have the instructions handy. include link to cheatsheet for [Github Markdown][4] ::
+Follow the [instructions on the wiki here][5] to get set up and get started.
+
+
 
 
 [1]: https://www.mozilla.org/en-US/mission/
 [2]: https://wiki.mozilla.org/Firefox_OS/Alopex
 [3]: https://github.com/fxos-product-design/alopex/issues
 [4]: https://help.github.com/articles/markdown-basics/
+[5]: https://wiki.mozilla.org/Open_Design

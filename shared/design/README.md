@@ -8,5 +8,5 @@ You can also add text-based files into this folder. If the file extension is `.m
 
 
 
-[1]: <linkgoeshere>
+[1]: https://wiki.mozilla.org/Open_Design
 [2]: https://help.github.com/articles/markdown-basics/
