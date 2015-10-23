@@ -8,7 +8,6 @@ See the [instructions on the wiki][1] for adding/updating files and for soliciti
 
 You can also add text-based files into this folder. If the file extension is `.md`, you can use [this cheatsheet][2] for Github Markdown formatting.
 
-liz: example jlsdfskdjfl
 
 
 [1]: https://wiki.mozilla.org/Open_Design
