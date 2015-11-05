@@ -1,4 +1,0 @@
-# Misc
-
-
-Pdol’s test
